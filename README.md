@@ -6,3 +6,5 @@ It's based on a ["Fates Norns"](https://github.com/okyeron/fates) combined with 
 Gerber files, BOMs and build guide coming soon.
 
 ![maasijam monofa](images/monofa_maasijam.jpg)
+
+![maasijam monofa hp](images/HPs.png)
