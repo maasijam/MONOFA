@@ -1,6 +1,6 @@
 Name,Designator,Package,Quantity,Mouser,Link
-"10uF 25V, 7mm height","C5,C8",,2,,
-"22uF 25V, 7mm height","C133,C134",,2,,
+"10uF Capacitor Electrolytic 25V, 7mm height","C5,C8",,2,,
+"22uF Capacitor Electrolytic 25V, 7mm height","C133,C134",,2,,
 1N5819HW,"D3,D2",SOD-123-2 ,2,621-1N5819HW-F ,
 "Ferrite Beads 1 kohm, 300mA","L2,L1",0603,2,710-742792664,
 TL074,"IC1,IC2",SOIC-14,2,,
