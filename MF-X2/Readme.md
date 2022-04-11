@@ -1,6 +1,6 @@
 # MF-X2
 
-Expander module for the MONOFA for MIDI2CV and CV2MIDI. It's an extended Ornament & Crime (six additional gate outs and a usb jack on the front panel. 
+Expander module for the MONOFA for MIDI2CV and CV2MIDI. It's an extended Ornament & Crime (six additional gate outs). The MF-X2 can be connected to the MONOFA on the back. 
 
 <h3>Gerbers</h3>
 coming soon...
