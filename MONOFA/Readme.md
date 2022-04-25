@@ -3,7 +3,9 @@
 A norns for eurorack.
 
 <h3>Gerbers</h3>
-coming soon...
+
+[Gerber files for panel, main and helper pcbs](Gerber/)
+<br />
 
 <h3>BOM</h3>
 
