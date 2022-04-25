@@ -4,7 +4,7 @@ A norns for eurorack.
 
 ### Notes:
 
-You need the expander module [mf-x1](../MF-X1/) for stereo audio in and out. The two modules are connected to each other on the back.
+You need the expander module [MF-X1](../MF-X1/) for stereo audio in and out. The two modules are connected to each other on the back.
 
 <h3>Gerbers</h3>
 
