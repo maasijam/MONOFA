@@ -1,0 +1,41 @@
+Name,Designator,Package,Quantity,Mouser,Link
+0,R20,0603,1,71-CRCW06030000Z0EAH ,
+1uF Electrolytic ,"C14,C15,C12,C13",7mm,4,232-63MS71MEFC4X7 ,
+220uF Electrolytic,"C17,C16",11mm,2,80-ESH227M016AE3AA ,
+10uF Electrolytic,"C20,C18,C19",7mm,3,667-ECE-A1EKA100B ,
+18p,"C1,C21",0603,2,80-C0603C180K4RACTU ,
+2K2,"R4,R5",0603,2,279-CRGH0603F2K2 ,
+47K,"R6,R7,R13,R15",0603,4,71-CRCW060347K0FKEAC ,
+220,"R8,R9,R10,R11",0603,4,279-CRGH0603F220R ,
+100,"R12,R14",0603,2,652-CR0603AFX1000ELF ,
+5K6,"R16,R17,R18,R19",0603,4,279-CRGH0603F5K6 ,
+100n,"C22,C23,C25,C26,C27",0603,5,80-C603C104K5RAC3121 ,
+220p,"C24,C28",0603,2,80-C0603C221J3RAUTO ,
+WM8731,IC6,SSOP28,1,238-WM8731SEDS/RV ,
+12.288MHz,Q3,HC-49/US ,1,815-ABLS2-12.2-D4Y-T ,
+15mm Flatted shaft ,"J1,J2,J3,J4",,4,652-PEC11R-4015F-N24 ,
+15mm Knurled shaft ,"ALT J1,J2,J3,J4",,0,652-PEC11R-4015K-N24 ,
+SS 13ASP,S4,Tested,1,,https://www.reichelt.de/schiebeschalter-1x-um-stehend-print-rm-4-7-ss-13asp-p112182.html?&trstct=pol_12&nbc=1
+C&K Slide Switch ,ALT S4,Not tested - May not fit perfectly,,611-1101M2S2ABE2 ,
+C&K SWITCH,"S1,S2,S3",C&K SWITCH,3,611-D6L90F2LFS ,https://www.thonk.co.uk/shop/radio-music-switch/
+USB2.0 A,"USB1,USB2,USB3",,3,,https://www.reichelt.de/usb-einbaubuchse-serie-a-gerade-180-vers--usb-ag-p22183.html?&nbc=1
+USB2.0 A,"ALT USB1,USB2,USB3",,,523-GSB11111ALF ,
+STEREOJACK Headphone ,HEADPHONE,,1,,https://www.thonk.co.uk/shop/thonkiconn/
+100n,"C7,C6",0805,2,80-C0805C104K5RACLR ,
+10K,"R1,R2,R3",0805,3,71-CRCW080510K0FKEAC ,
+ADP150AUJZ-3.3-R7 ,IC1,,1,ADP150AUJZ-3.3-R7 ,
+NHD-2.7-12864WDW3 OLED Display ,,,1,NHD-2.7-12864WDW3 ,
+RPI3 b+ ,,,1,358-RPI3-MODBP-BULK ,
+"RPI Power supply 5 V, 2,5 A",,,1,,https://www.reichelt.de/raspberry-pi-netzteil-5-v-2-5-a-micro-usb-schwarz-nt-musb-25-sw-p167078.html?&nbc=1
+Adafruit 1979 Header for RaspberryPi,,,1,485-1979 ,
+1x20 low profile female header for disp ,,,1,517-929984-01-20-RK ,
+Spacer Stud M3x10mm,,,4,710-970100327 ,https://www.reichelt.de/distanzhuelsen-metall-6-kant-m3-10mm-di-10mm-p7119.html?&nbc=1
+Spacer Stud M2.5x17mm,,,2,710-970170155 ,https://www.reichelt.de/distanzbolzen-15-mm-m2-5-dii-15-m2-5-p236294.html?&trstct=pol_11&nbc=1
+WA-SBRII M2.5x5mm,,,4,710-970050154 ,https://www.reichelt.de/distanzbolzen-5-mm-m2-5-dii-5-m2-5-p236290.html?&trstct=pol_5&nbc=1
+"Screws 8mm / M2,5",,,4,,https://www.reichelt.de/zylinderkopfschrauben-schlitz-m2-5-8-mm-200-stueck-szk-m2-5x8-200-p65690.html?&trstct=pos_5&nbc=1
+Screws 6mm / M3,,,8,,https://www.ebay.de/itm/253379729102?var=552543230198
+BASTL Style Aluminium Knobs Silver,,Encoder D-Shaft,4,,https://www.thonk.co.uk/shop/bastl-knobs/
+BASTL Style Aluminium Knobs Silver,,ALT Encoder T18-Shaft,,,https://www.thonk.co.uk/shop/bastl-knobs/
+Micro USB Typ B,,,1,,https://www.amazon.de/gp/product/B07PGY1TQW/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1
+LOW PRO HDR 6P VERT HT BLACK ,,,2,571-1761681-1 ,
+Ribbon Cable,,,,,https://www.reichelt.de/flachbandkabel-awg28-16-pol-grau-3m-ring-awg-28-16g-3m-p47640.html?&trstct=vrt_pdn&nbc=1
