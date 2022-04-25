@@ -16,3 +16,15 @@ A norns for eurorack.
 
 coming soon...
 <br /><br />
+
+![maasijam monofa](Images/monofa_maasijam-00364.jpg)
+
+![maasijam monofa](Images/monofa_maasijam-00362.jpg)
+
+![maasijam monofa](Images/monofa_maasijam-00363.jpg)
+
+![maasijam monofa](Images/monofa_maasijam-00365.jpg)
+
+![maasijam monofa](Images/monofa_maasijam-00366.jpg)
+
+![maasijam monofa](Images/monofa_maasijam-00367.jpg)
