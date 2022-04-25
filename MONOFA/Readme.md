@@ -7,7 +7,7 @@ coming soon...
 
 <h3>BOM</h3>
 
-coming soon...
+[Bill of materials as CSV](BOM_monofa_v1.0_revE.csv)
 <br />
 
 <h3>Build guide</h3>
