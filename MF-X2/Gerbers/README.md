@@ -10,4 +10,4 @@
 The following pcb will also used in the MONOFA module. So, if you want to build both modules, you may only need one order (because of the minimum number of pcbs you often have to order).
 
 
-<img align="left" src="../../MONOFA/Images/usb_power_screen.jpg"> [Gerber_monofa/mf-x2_usb](Gerber_monofa_usb_power_revB_2022-04-25.zip)<br clear="left"/>
+<img align="left" src="../../MONOFA/Images/usb_power_screen.jpg"> [Gerber_monofa/mf-x2_usb](../../MONOFA/Gerber/Gerber_monofa_usb_power_revB_2022-04-25.zip)<br clear="left"/>
