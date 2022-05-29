@@ -14,3 +14,11 @@ coming soon...
 
 coming soon...
 <br /><br />
+
+
+![maasijam mf-x2](Images/mf-x2_screen.jpg)
+
+![maasijam mf-x2](Images/mf-x2_pcb_back.jpg)
+
+![maasijam mf-x2](Images/mf-x2_pcb_side.jpg)
+
