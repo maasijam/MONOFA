@@ -8,7 +8,7 @@ Expander module for the [MONOFA](../MONOFA/) for MIDI2CV and CV2MIDI. It's an ex
 
 <h3>BOM</h3>
 
-coming soon...
+[Bill of materials as CSV](BOM_mfx2_front_v1.1_revB_2022-04-13.csv)
 <br />
 
 <h3>Build guide</h3>
