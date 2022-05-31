@@ -7,9 +7,10 @@ It's based on a ["Fates Norns"](https://github.com/okyeron/fates) combined with 
 |----------|----------|----------|
 |[Gerbers, BOM and build guide](MONOFA/)|[Gerbers, BOM and build guide](MF-X1/)|[Gerbers, BOM and build guide](MF-X2/)|
 
+<br />
+
+**Disclaimer**: This is a DIY project. Use at your own risk.<br />
 <br /><br />
-
-
 ![maasijam monofa](images/monofa_maasijam.jpg)
 
 ![maasijam monofa hp](images/HPs.png)
