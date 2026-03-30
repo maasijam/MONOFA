@@ -11,10 +11,12 @@ Expander module for the [MONOFA](../MONOFA/) for MIDI2CV and CV2MIDI. It's an ex
 [Bill of materials as CSV](BOM_mfx2_front_v1.1_revB_2022-04-13.csv)
 <br />
 
-<h3>Build guide</h3>
+<h3>Schematic</h3>
 
-coming soon...
-<br /><br />
+[Schematic](Schematic_MFX2_2026-03-30.pdf)
+<br />
+
+<br />
 
 
 ![maasijam mf-x2](Images/mf-x2_screen.jpg)
@@ -22,4 +24,6 @@ coming soon...
 ![maasijam mf-x2](Images/mf-x2_pcb_back.jpg)
 
 ![maasijam mf-x2](Images/mf-x2_pcb_side.jpg)
+
+![maasijam mf-x2](Images/mf-x2_gate_connector.jpg)
 
