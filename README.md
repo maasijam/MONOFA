@@ -5,7 +5,7 @@ It's based on a ["Fates Norns"](https://github.com/okyeron/fates) combined with 
 
 |MONOFA|MF-X1|MF-X2|
 |----------|----------|----------|
-|[Gerbers, BOM and build guide](MONOFA/)|[Gerbers, BOM and build guide](MF-X1/)|[Gerbers, BOM and build guide](MF-X2/)|
+|[Gerbers, BOM and images](MONOFA/)|[Gerbers, BOM and images](MF-X1/)|[Gerbers, BOM and images](MF-X2/)|
 
 <br />
 
