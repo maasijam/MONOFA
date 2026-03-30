@@ -16,10 +16,7 @@ You need the expander module [MF-X1](../MF-X1/) for stereo audio in and out. The
 [Bill of materials as CSV](BOM_monofa_v1.0_revE.csv)
 <br />
 
-<h3>Build guide</h3>
-
-coming soon...
-<br /><br />
+<br />
 
 ![maasijam monofa](Images/monofa_maasijam-00364.jpg)
 
