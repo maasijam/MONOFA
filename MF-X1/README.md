@@ -15,11 +15,7 @@ This module only makes sense in combination with the [MONOFA](../MONOFA/) module
 
 [Bill of materials as CSV](BOM_mf-x1_v1.0revB.csv)
 <br />
-
-<h3>Build guide</h3>
-
-coming soon...
-<br /><br />
+<br />
 
 ![maasijam mf-x1](Images/mf-x1_maasijam-00307.jpg)
 
