@@ -13,8 +13,8 @@ Name,Designator,Package,Quantity,Mouser,Link
 220p,"C24,C28",0603,2,80-C0603C221J3RAUTO ,
 WM8731,IC6,SSOP28,1,238-WM8731SEDS/RV ,
 12.288MHz,Q3,HC-49/US ,1,815-ABLS2-12.2-D4Y-T ,
-15mm Flatted shaft ,"J1,J2,J3,J4",,4,652-PEC11R-4015F-N24 ,
-15mm Knurled shaft ,"ALT J1,J2,J3,J4",,0,652-PEC11R-4015K-N24 ,
+15mm Flatted shaft ,"ALT J1,J2,J3,J4",,0,652-PEC11R-4015F-N24 ,
+15mm Knurled shaft (tested) ,"J1,J2,J3,J4",,4,652-PEC11R-4015K-N24 ,
 SS 13ASP,S4,Tested,1,,https://www.reichelt.de/schiebeschalter-1x-um-stehend-print-rm-4-7-ss-13asp-p112182.html?&trstct=pol_12&nbc=1
 C&K Slide Switch ,ALT S4,Not tested - May not fit perfectly,,611-1101M2S2ABE2 ,
 C&K SWITCH,"S1,S2,S3",C&K SWITCH,3,611-D6L90F2LFS ,https://www.thonk.co.uk/shop/radio-music-switch/
